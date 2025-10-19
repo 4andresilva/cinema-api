@@ -15,5 +15,75 @@
       "classificacao_indicativa_id": 2,
       "tipo_idioma_id": 1
     }
+  ],
+  "generos": [
+    {
+      "id": 1,
+      "nome": "Ação",
+      "ativo": true,
+      "criado_em": "2025-01-01T00:00:00Z",
+      "atualizado_em": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "nome": "Drama",
+      "ativo": true,
+      "criado_em": "2025-01-01T00:00:00Z",
+      "atualizado_em": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "nome": "Crime",
+      "ativo": true,
+      "criado_em": "2025-01-01T00:00:00Z",
+      "atualizado_em": "2025-01-01T00:00:00Z"
+    }
+  ],
+  "classificacoes_indicativas": [
+    {
+      "id": 1,
+      "idade": 0,
+      "ativo": true,
+      "criado_em": "2025-01-01T00:00:00Z",
+      "atualizado_em": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "idade": 16,
+      "ativo": true,
+      "criado_em": "2025-01-01T00:00:00Z",
+      "atualizado_em": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "idade": 18,
+      "ativo": true,
+      "criado_em": "2025-01-01T00:00:00Z",
+      "atualizado_em": "2025-01-01T00:00:00Z"
+    }
+  ],
+  "tipos_idioma": [
+    {
+      "id": 1,
+      "nome": "Português",
+      "ativo": true,
+      "criado_em": "2025-01-01T00:00:00Z",
+      "atualizado_em": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "nome": "Inglês",
+      "ativo": true,
+      "criado_em": "2025-01-01T00:00:00Z",
+      "atualizado_em": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "nome": "Espanhol",
+      "ativo": true,
+      "criado_em": "2025-01-01T00:00:00Z",
+      "atualizado_em": "2025-01-01T00:00:00Z"
+    }
   ]
 }
+
