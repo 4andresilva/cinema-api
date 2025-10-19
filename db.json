@@ -1,17 +1,19 @@
-[
-  {
-    "id": 1,
-    "titulo": "O Poderoso Chefão",
-    "sinopse": "A história da família Corleone...",
-    "duracao_em_minutos": 175,
-    "trailer_url": "https://youtube.com/...",
-    "capa_url": "https://cdn.cinema.com/filmes/1.jpg",
-    "data_lancamento": "1972-03-24",
-    "data_inicio_cartaz": "2025-01-10T00:00:00Z",
-    "data_fim_cartaz": "2025-03-10T00:00:00Z",
-    "ativo": true,
-    "genero_id": 3,
-    "classificacao_indicativa_id": 2,
-    "tipo_idioma_id": 1
-  }
-]
+{
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "O Poderoso Chefão",
+      "sinopse": "A história da família Corleone...",
+      "duracao_em_minutos": 175,
+      "trailer_url": "https://youtube.com/...",
+      "capa_url": "https://cdn.cinema.com/filmes/1.jpg",
+      "data_lancamento": "1972-03-24",
+      "data_inicio_cartaz": "2025-01-10T00:00:00Z",
+      "data_fim_cartaz": "2025-03-10T00:00:00Z",
+      "ativo": true,
+      "genero_id": 3,
+      "classificacao_indicativa_id": 2,
+      "tipo_idioma_id": 1
+    }
+  ]
+}
